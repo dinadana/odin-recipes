@@ -1,1 +1,1 @@
-# odin-recipes; first project
+Project made while learning basics of HTML with The Odin Project
