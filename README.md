@@ -1,1 +1,2 @@
-Project made while learning basics of HTML with The Odin Project
+project 1: recipes - the odin project
+live preview at https://dinadana.github.io/odin-recipes/
